@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentation
+---
+
 # Maria and Chris 
 
 ## Wedding info (updated: 13/9/24)
