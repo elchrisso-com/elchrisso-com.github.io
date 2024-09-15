@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentation
+title: Travel Info.
 ---
 
 # Maria and Chris 
