@@ -3,13 +3,11 @@ layout: default
 title: Documentation
 ---
 
-<html>
-<body>
-<p>
-  It works
-</p>
-  
-</body>
+## Date
+2 August 2025
 
-  
-</html>
+## Location
+Bodo, Norway
+
+
+## Travel info link: here
