@@ -21,8 +21,6 @@ We have provided a short travel information page, which we plan to update: [go t
 - Dinner next to the church at 4pm
 - Reception party to start at 8pm
 - Reception party end @ approx 4am on 3 August
-### Sunday 3 August
-- 11am breakfast at reception venue with cakes, coffee and hangovers
 
 ## FAQ
 - Q: Will there be space for kids.
