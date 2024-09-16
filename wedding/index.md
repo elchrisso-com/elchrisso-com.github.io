@@ -6,21 +6,24 @@ title: travel info.
 ## Bodø
 Bodø is a town in Northern Norway, located above the artic circle. You can find it on google maps here: <a href="https://maps.app.goo.gl/4MSZEpyszJbVNWuM8"> here</a>.
 
-Bodo is the gateway to the Lofoten Islands, see below <ref Lofoten>. This area of the world is terrific.
+Bodo is the gateway to the Lofoten Islands, see below.
 
 ## Getting there
 Flying is probably the cheapest and easiest way to get to Bodo.
 The major airlines serving Bodo are [SAS](https://www.flysas.com/) and [Norwegian](https://www.norwegian.com/uk/). A good flight checking site for finding flights is [Google flights](https://www.google.com/travel/flights). 
 Alternatives such as road, sea and rail are also possible, but will take a lot longer, and we have no personal experience.
 
+### Bodo airport
+Bodo has a small airport, which is very close to the centre of the town. There are taxis and busses easily available. You can even walk.
+
 ### Flying
 I find [Google flights](https://www.google.com/travel/flights) provides the best possibilities. Try looking around the end of September/October ('24) to book in tickets early. Below are options from Birmingham and London. If you do fly from somewhere else and find something convenient, please let me know and I will update it here.
 
-#### from Birmingham
+#### From Birmingham
 There is usually a flight from Birmingham that goes via Copenhagen, Oslo and on to Bodo, with the airline [SAS](https://www.flysas.com/)
 Alternatively Manchester airport as well as London Heathrow usually have better and cheaper flights.
 
-#### from London
+#### From London
 Check [Google flights](https://www.google.com/travel/flights) and [SAS](https://www.flysas.com/) for flights from London Heathrow (LHR) to Bodo (BOO), for the quickest and most affordable flights. They usually go through Oslo (OSL).
 
 **Note**: Since 2 August is still a long time away now, it may be worth waiting a short time for the airlines to confirm their schedules before booking. But keep an eye.
@@ -50,11 +53,6 @@ There are many hotels in town. Here is a short list without links yet.
 - Airbnb
 - Hostel
 - Camping
-
-
-
-
-
 
 ## Weather
 The weather is mercurial. It can be warm/cold, windy/still and all sorts even in summer. We are hoping for some warm weather with little rain, as we have outdoor space. We have a lot of indoor space though so it is not a problem if it's bad. A little rain never hurt anyone (but it certainly tried).
