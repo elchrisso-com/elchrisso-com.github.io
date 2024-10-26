@@ -1,7 +1,4 @@
----
-layout: default
-title: travel info.
----
+
 
 ## Bodø
 Bodø is a town in Northern Norway, located above the artic circle. You can find it on google maps here: <a href="https://maps.app.goo.gl/4MSZEpyszJbVNWuM8"> here</a>.

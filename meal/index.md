@@ -1,3 +1,8 @@
+---
+layout: default
+title: meal
+---
+
 # Meal
 For those coming to the meal, we will walk to the meal venue from the church, it is a five minute walk at max. It is also in the same grounds where the recption will be.
 

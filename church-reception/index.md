@@ -1,3 +1,8 @@
+---
+layout: default
+title: church+reception
+---
+
 # Church + Reception
 
 ## Church
