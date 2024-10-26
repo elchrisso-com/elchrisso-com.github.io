@@ -3,10 +3,7 @@ layout: default
 title: main-page
 ---
 
-## Wedding information (updated: 26 October 2024)
-Click here for a link to the 
-
-
+## Wedding info (updated: 13 Sep. '24)
 Welcome to the wedding information page. This page is not yet complete, but will be updated with facts and guides as we have chance to update it over the next year. Currently there is a short summary (below), as well as flight and travel info for those wishing to book in early (and a short FAQ). Eventually we plan to offer more advice for travel, tourism and all sorts.
 
 ### Date and Location
