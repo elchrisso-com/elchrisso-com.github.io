@@ -26,15 +26,13 @@ Alternatively Manchester airport as well as London Heathrow usually have better 
 #### From London
 Check [Google flights](https://www.google.com/travel/flights) and [SAS](https://www.flysas.com/) for flights from London Heathrow (LHR) to Bodo (BOO), for the quickest and most affordable flights. They usually go through Oslo (OSL).
 
-**Note**: Since 2 August is still a long time away now, it may be worth waiting a short time for the airlines to confirm their schedules before booking. But keep an eye.
-
 ### By Road
 Driving will take a couple of days, but you can get a ferry crossing from the UK to the Netherlands and Denmark to Norway (Oslo) to shorten the trip a bit. Having said that, landing in Oslo and driving from there will be slow going. Nobody drives between cities in Norway, as the country is vast and mountainous. Norway has slow, single track, roads with heavy speeding fines. Better to blast it up through Sweden and cross closer to Bodo at Gradis.
 
 ### By Sea
 As far as I am aware there is no ferry between Norway and the UK. Maybe you can get one from the Shetland or Orkney Islands, I cannot find anything myself, but if you do discover it, please let me know.
 
-As an alternative option, if you drive, you can take a ferry from Germany to Oslo.
+As an alternative option, if you drive, you can take a ferry from Denmark to Oslo.
 
 ## Staying in Bodo
 There are many hotels in town. Here is a short list without links yet.
@@ -62,12 +60,12 @@ We will of course update the suggestions for clothing closer to. As the saying g
 In the midsummer in Bodo the sun does not set, but since we will be having the wedding on 2 August, there will be a couple hours of twilight. There may be clouds, which will make it darker, but not dark.
 
 ### Wildlife
-There are some incredible animals in Norway. In August you may be lucky enough to see the sea eagle and the elk (norsk: elg). There are also whales to see if you can get to them before they shoot ‘em. 
+There are some incredible animals in Norway. In August you may be lucky enough to see the sea eagle (norsk: havørn) and the elk (norsk: elg). There are also whales (norsk: hval) and occasionally killer whales (norsk: spekkhogger). From Rost (a nearby island), you can take a trip to see puffins (norsk: lundefugl), and pufflings, though you may wish to book in advance.
 
 #### Facts about the Elk
 The Elk (what a Canadian would call a Moose, example phrase "hey, you're not the same moose from last night!") is in essence a very large deer (Latin: heftus deerus). They exist throughout Norway. They are usually shy, but should not be approached, especially if they have young nearby.
 
-If you do find yourself face to face with an aggressive elk the best course of action is to take the initiate and charge first. Just put your head down, go for it.  And I mean, _really_ go for it. Try grunting too, why not. Remember, you want to catch it off guard, make it think: "hang on, I thought I was meant to be charging them". Note: if you do attempt this, please make sure you have someone on hand film it.
+If you do find yourself face to face with an aggressive elk the best course of action is to take the initiative and charge first. Just put your head down and go for it.  And I mean, _really_ go for it. Try grunting too --- why not? Remember, you want to catch it off guard, make it think: "hang on, I thought I was meant to be charging them". If you do attempt this, please make sure you have someone on hand film it.
 
 # Things to do
 - Kjerringøy
@@ -78,7 +76,7 @@ If you do find yourself face to face with an aggressive elk the best course of a
 - Being a lad/lass about town
 
 ## Lofoten islands
-The Lofoten islands are a short ferry trip away and are a UNESCO world heritage site. The biggest elk live here and you may see them.
+The Lofoten islands are a short ferry trip away and are a UNESCO world heritage site. It's really worth a visit if you can make some time. From there you can swim, surf, hike, climb and do plenty more activities. Renting a car is a good idea.
 - Henningsvær
 - Ure (Maria has a house there)
 - Leknes
