@@ -14,8 +14,8 @@ The church is [Bodin Kirke](https://en.wikipedia.org/wiki/Bodin_Church), which i
 After the service, those attending the meal can walk over to the venue. It is a flat 5-minute walk. 
 
 ## Dinner
-For those attending the meal, it will start shortly after the church service. 
-Details will appear later, and be communicated directly.
+For those coming to the dinner, it will start shortly after the church service. 
+Details [here](/the-dinner/index.md)
 
 
 ## Reception

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: travel info.
+title: Travel Info.
 ---
 
 ## **Wedding Location, Bodø**

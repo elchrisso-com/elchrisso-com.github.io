@@ -1,10 +1,11 @@
 ---
 layout: default
-title: the dinner
+title: The Dinner
 ---
 
-# Meal
-For those coming to the meal, we will walk to the meal venue from the church, it is a five minute walk at max. It is also in the same grounds where the recption will be.
+# **The Dinner**
+For those coming to the meal, we will walk to the meal venue from the church, it is a five minute walk tops. 
+It is also in the same grounds where the recption will be.
 
 There will be reception drinks and we will head into the meal-building.
 
