@@ -3,7 +3,7 @@ layout: default
 title: The Day
 ---
 
-# The Day
+# The Wedding Day, 2 August 2025
 The Wedding day will be 2 August 2025. The wedding will take place at the church, after there will be a meal, then the reception. 
 Details follow.
 

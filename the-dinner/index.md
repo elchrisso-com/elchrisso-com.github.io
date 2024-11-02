@@ -1,6 +1,6 @@
 ---
 layout: default
-title: meal
+title: the dinner
 ---
 
 # Meal
