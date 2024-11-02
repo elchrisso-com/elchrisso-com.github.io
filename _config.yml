@@ -2,3 +2,6 @@ title: Maria & Chris
 description: Wedding Information
 markdown: kramdown
 theme: minima  
+
+exclude:
+  - archive/
