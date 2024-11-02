@@ -3,5 +3,11 @@ description: Wedding Information
 markdown: kramdown
 theme: minima  
 
+navbar_pages:
+  - index.md
+  - /travel-info/index.md
+  - /the-day/index.md
+  - /the-dinner/index.md
+
 exclude:
   - archive/
