@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-## **Wedding information**
-Welcome to the wedding information page. This page is not yet complete, but will be updated with facts and guides as we have chance to update it over the next year. Currently there is a short summary (below), as well as flight and travel info for those wishing to book in early (and a short FAQ). Eventually we plan to offer more advice for travel, tourism and all sorts.
+# **Wedding information**
+Welcome to the wedding information page. This page contains facts and guides for the wedding and will be updated over the next year. 
 
 ### **Date and Location**
 - The Wedding will take place on 2 August 2025 in Bodo, Norway. You can find it on google maps: <a href="https://maps.app.goo.gl/g4zBsFW85n4vBDAp6"> here</a>.
