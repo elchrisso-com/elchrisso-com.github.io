@@ -1,6 +1,6 @@
 ---
 layout: default
-title: main-page
+title: Home
 ---
 
 ## **Wedding information**
@@ -37,6 +37,8 @@ We have provided a short travel information page, which we plan to update: [go t
 - Q: Why is the ~~groom~~ best man so unreasonably handsome?
 - ~~A: Awwww stop it, you're making me blush.~~
 - A: He says it's a matter of who you're standing next to.
+
+If you have other questions, or comments please just get in touch.
 
 
 _Last updated: 2 November 2024_
