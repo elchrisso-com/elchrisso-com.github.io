@@ -12,7 +12,7 @@ layout: default
   gap: 10px;
 }
 .image-item {
-  width: 200px;
+  width: 400px;
 }
 .image-item img {
   width: 100%;
