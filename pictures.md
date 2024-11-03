@@ -10,10 +10,17 @@ layout: default
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+  justify-content: center; /* Center the entire gallery */
 }
+
 .image-item {
   width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center each image within its container */
+  text-align: center; /* Center text or captions if added */
 }
+
 .image-item img {
   width: 100%;
   height: auto;
