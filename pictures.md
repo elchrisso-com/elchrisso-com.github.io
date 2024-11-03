@@ -23,10 +23,11 @@ layout: default
 
 <div class="image-gallery">
   {% for image in site.static_files %}
-    {% if image.path contains 'assets/images' %}
+    {% if image.path contains 'img/' %}
       <div class="image-item">
         <img src="{{ image.path | relative_url }}" alt="{{ image.name }}" />
       </div>
     {% endif %}
   {% endfor %}
 </div>
+
