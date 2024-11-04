@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="{{ '/img/3c6b3e96-adc5-4264-baa0-c18d0e2f9efb.jpg' | relative_url }}" alt="Maria & Chris" width="250px">
+<img src="/img/3c6b3e96-adc5-4264-baa0-c18d0e2f9efb.jpg" alt="Maria & Chris" width="250px">
 
 
 
