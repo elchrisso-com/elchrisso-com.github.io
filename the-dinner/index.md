@@ -4,22 +4,8 @@ title: The Dinner
 ---
 
 # **The Dinner**
-For those coming to the meal, we will walk to the meal venue from the church, it is a five minute walk tops. 
-It is also in the same grounds where the recption will be.
+For those coming to the dinner (the wedding breakfast), we will walk to the venue from the church---it’s a five-minute walk at most. It’s also within the same grounds as the reception.
 
-There will be reception drinks and we will head into the meal-building.
+Dinner guests, please reply to the Save the Date invitation, which you should receive in the post.
 
-There is a rather tight limit of 70 people for the meal, so it is not possible to squeeze anymore in. 
-If for some reason you or your partner has to drop out last minute, please do let us know as soon as possible so that we can offer the space to others.
-
-The meal will be roughly ... minutes, and include:
-- reception drink and amuse bouche
-- Starter 
-- Main
-- Speeches
-- Singing
-- Wine
-- Nonsense
-- Music
-
-We will have the wedding cake at the reception afterwards
+There’s a tight limit on the number of people for the dinner, so unfortunately, it’s not possible to squeeze any more in. If for any reason you or your partner has to drop out, please let us know as soon as possible.
