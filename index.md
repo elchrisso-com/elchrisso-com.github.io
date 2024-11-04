@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+<img src="img/3c6b3e96-adc5-4264-baa0-c18d0e2f9efb.jpg" alt="Welcome Image" width="250px">
+
+
 # **Wedding information**
 Welcome to the wedding information page. This page contains facts and guides for the wedding and will be updated over the next year. 
 
