@@ -14,6 +14,17 @@ Please arrive at the church before 1.30 pm for the ceremony, which will be offic
 The church is [Bodin Kirke](https://en.wikipedia.org/wiki/Bodin_Church), a lovely historic building.
 After the service, those attending the meal can walk over to the venue. It is a flat, 5-minute walk.
 
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1541.3608400696503!2d14.43222981319262!3d67.27406655169936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45df10e99fe83697%3A0xa0696c530984462a!2sBodin%20Church!5e0!3m2!1sen!2sno!4v1731005843183!5m2!1sen!2sno" 
+    width="300" 
+    height="150" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy" 
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+</div>
+
 ## **Dinner**
 For those joining the dinner, it will start shortly after the church service. 
 Details are [here](/the-dinner/index.md).
@@ -34,4 +45,7 @@ The reception will include (but is not limited to):
 You have been warned.
 
 ## **Dress Code**
+
 There is no formal dress code; however, please try to avoid dark colours if you can. Colourful bow ties are encouraged. High heels are fine, but remember to bring your [dancing shoes](https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ?si=9105ced2e53f4c4f). If it rains, an umbrella is a good idea.
+
+
