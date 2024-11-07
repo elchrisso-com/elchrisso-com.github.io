@@ -32,7 +32,13 @@ For those joining the dinner, it will start shortly after the church service.
 Details are [here](/the-dinner/index.md).
 
 ## **Reception**
-The reception will start at 8 pm.
+The reception will start around 7:30 pm at [Nordland Kultursenter](https://nordlandkultursenter.no/handlers/bv.ashx/e1/id53da1b5-1c48-417c-8c7b-cc661f409fbd/w1500/h700/kb4824fb9d14f/dji_0031-kopi.jpg).
+
+<div style="text-align: center;">
+  <a href="https://nordlandkultursenter.no/handlers/bv.ashx/e1/id53da1b5-1c48-417c-8c7b-cc661f409fbd/w1500/h700/kb4824fb9d14f/dji_0031-kopi.jpg" target="_blank">
+    <img src="https://nordlandkultursenter.no/handlers/bv.ashx/e1/id53da1b5-1c48-417c-8c7b-cc661f409fbd/w1500/h700/kb4824fb9d14f/dji_0031-kopi.jpg" alt="Reception Venue - Nordland Kultursenter" style="max-width: 400px; width: 100%;">
+  </a>
+</div> 
 We are providing beer and wine for the reception, along with some buffet-style party food and wedding cake. 
 You are also welcome to bring your own alcohol, mixers, and food if you like, which can be stored in one of the buildings. This is encouraged if you plan to get completely _on it_.
 
