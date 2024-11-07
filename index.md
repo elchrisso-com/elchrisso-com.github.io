@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-<img src="/img/3c6b3e96-adc5-4264-baa0-c18d0e2f9efb.jpg" alt="Maria & Chris" width="250px">
+<div style="text-align: center;">
+  <img src="img/3c6b3e96-adc5-4264-baa0-c18d0e2f9efb.jpeg" alt="Maria & Chris" width="250px">
+</div>
 
 
 
@@ -24,8 +26,8 @@ We have provided a short travel information page, which we plan to update: [go t
 
 ### **Saturday 2 August**
 - Wedding @ Bodin Kirke at 1.30pm
-- Dinner next to the church at 4pm, 
-- Reception party to start at 8pm
+- Dinner (Wedding Breakfast) next to the church at 4pm
+- Reception party to start at 7.30 / 8pm
 - Reception party to end @ approx 4am on 3 August
 
 ## **FAQ**
@@ -42,7 +44,7 @@ We have provided a short travel information page, which we plan to update: [go t
 - ~~A: Awwww stop it, you're making me blush.~~
 - A: He says it's a matter of who you're standing next to.
 
-If you have other questions, or comments please just get in touch.
+Please ask if you have questions. 
 
 
-_Last updated: 2 November 2024_
+_Last updated: 7 November 2024_
