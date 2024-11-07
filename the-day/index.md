@@ -8,7 +8,7 @@ The wedding day will be on 2 August 2025. The ceremony will take place at the ch
 
 ## **Church**
 
-<img src="https://en.wikipedia.org/wiki/Bodin_Church#/media/File:Bodin_kirke_3.jpg" alt="Bodin Kirke" style="max-width: 400px; width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Bodin_kirke_3.jpg" alt="Bodin Kirke" style="max-width: 400px; width: 100%;">
 
 Please arrive at the church before 1.30 pm for the ceremony, which will be officiated by the Reverend Sam Aldred.
 The church is [Bodin Kirke](https://en.wikipedia.org/wiki/Bodin_Church), a lovely historic building.
