@@ -8,6 +8,8 @@ The wedding day will be on 2 August 2025. The ceremony will take place at the ch
 
 ## **Church**
 
+<div style="text-align: center;">
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Bodin_kirke_3.jpg" alt="Bodin Kirke" style="max-width: 400px; width: 100%;">
 
 
@@ -20,6 +22,7 @@ The wedding day will be on 2 August 2025. The ceremony will take place at the ch
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 
+</div> 
 
 Please arrive at the church before 1.30 pm for the ceremony, which will be officiated by the Reverend Sam Aldred.
 The church is [Bodin Kirke](https://en.wikipedia.org/wiki/Bodin_Church), a lovely historic building.
@@ -32,7 +35,7 @@ For those joining the dinner, it will start shortly after the church service.
 Details are [here](/the-dinner/index.md).
 
 ## **Reception**
-The reception will start around 7:30 pm at [Nordland Kultursenter](https://nordlandkultursenter.no/handlers/bv.ashx/e1/id53da1b5-1c48-417c-8c7b-cc661f409fbd/w1500/h700/kb4824fb9d14f/dji_0031-kopi.jpg).
+The reception will start around 7:30 pm at [Nordland Kultursenter](https://nordlandkultursenter.no/handlers/bv.ashx/e1/id53da1b5-1c48-417c-8c7b-cc661f409fbd/w1500/h700/kb4824fb9d14f/dji_0031-kopi.jpg). It is a 5 minute walk from the church.
 
 <div style="text-align: center;">
   <a href="https://nordlandkultursenter.no/handlers/bv.ashx/e1/id53da1b5-1c48-417c-8c7b-cc661f409fbd/w1500/h700/kb4824fb9d14f/dji_0031-kopi.jpg" target="_blank">

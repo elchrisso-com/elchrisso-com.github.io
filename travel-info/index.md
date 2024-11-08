@@ -4,14 +4,14 @@ title: Travel Info.
 ---
 
 # **Wedding Location, Bodø**
-Bodø is a town in Northern Norway, located above the artic circle. You can find it on google maps here: <a href="https://maps.app.goo.gl/4MSZEpyszJbVNWuM8"> here</a>.
+Bodø is a city in the north of Norway, located above the Artic Circle. You can find it on google maps here: <a href="https://maps.app.goo.gl/4MSZEpyszJbVNWuM8"> here</a>.
 
 Bodø is the gateway to the Lofoten Islands, see below.
 
 ## **Getting there**
 Flying is probably the cheapest and easiest way to get to Bodø.
 The major airlines serving Bodø are [SAS](https://www.flysas.com/) and [Norwegian](https://www.norwegian.com/uk/). 
-I find google flights to be a good flight checking service: [Google flights](https://www.google.com/travel/flights). 
+I find google flights to be a good flight checking service: [Google flights](https://www.google.com/travel/flights).
 Alternatives, such as road, sea and rail are also possible, but will take a lot longer, and we have little personal experience.
 
 ### **Bodø airport**
@@ -36,10 +36,10 @@ As far as I am aware there is no ferry between Norway and the UK. Maybe you can 
 You can probably take a cruise to Norway. From withing Norway you can take the [Hurtigruten](https://www.hurtigruten.com/), which is a famous old cruise boat that visits many of the cities and towns on the sea and fjords. Remember to take sea sickness tabs with you.
 
 ## **Staying in Bodø**
-There are many hotels in town. Here is a short list. There are no links, but you can find them with a quick web-search.
+There are many hotels in town. Here is a short list. There are no links, but you can find them with a quick web-search. Any hotel in walking distance to the centre of town is a good bet.
 
 **High-end**
-- The Wood Bodø
+- The Wood Bodø (located on the hill abover the city)
 - Quality hotel Ramsalt
 
 **Mid-range**
@@ -83,4 +83,6 @@ The Lofoten islands are a short ferry trip away and are a UNESCO world heritage 
 - Ure (Maria has a house there)
 - Leknes
 - Viking museum
+
+
 
