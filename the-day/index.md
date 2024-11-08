@@ -61,6 +61,6 @@ __Consider yourself forwarned.__
 
 ## **Dress Code**
 
-There is no formal dress code; however, please try to avoid dark colours if you can. Colourful bow ties are encouraged. High heels are fine, but remember to bring your [dancing shoes](https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ?si=9105ced2e53f4c4f). If it rains, an umbrella is a good idea.
+There is no formal dress code so just dress smart (suits and dresses); however, please try to avoid dark colours if you can. Colourful bow ties are encouraged. High heels are fine, but remember to bring your [dancing shoes](https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ?si=9105ced2e53f4c4f). If it rains, an umbrella is a good idea.
 
 
