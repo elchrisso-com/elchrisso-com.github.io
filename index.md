@@ -26,8 +26,10 @@ We have provided a short travel information page: [go to travel-info](/travel-in
 
 ### **Saturday 2 August**
 - Wedding @ [Bodin Kirke](the-day/index.md) at 1.30pm
+- Champagne reception and mingling 2:30pm to 4pm
 - [Dinner (Wedding Breakfast)](the-dinner/index.md) next to the church at 4pm
-- [Reception](the-day/index.md#reception) to start from 7.30 8pm
+- Light food, refreshment and drinks at stabburet (the reception house) for those not coming to the dinner from 4pm
+- [Reception](the-day/index.md#reception) to start from 7.30pm
 - Reception party to end @ approx 4am on 3 August
 
 ## **FAQ**
