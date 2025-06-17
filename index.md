@@ -49,4 +49,4 @@ We have provided a short travel information page: [go to travel-info](/travel-in
 Please ask if you have questions. 
 
 
-_Last updated: 7 November 2024_
+_Last updated: 17 June 2025_
