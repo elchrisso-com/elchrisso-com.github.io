@@ -9,6 +9,7 @@ header_pages:
   - the-dinner/index.md
   - travel-info/index.md
   - pictures.md
+  - gifts.md
 
 navbar_pages:
   - /index.md
@@ -16,6 +17,7 @@ navbar_pages:
   - /the-day/index.md
   - /the-dinner/index.md
   - /img/index.md
+  - /gifts.md
 
 exclude:
   - archive/
