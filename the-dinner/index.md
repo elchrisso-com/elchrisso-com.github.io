@@ -11,3 +11,5 @@ Dinner guests should have already been asked, but do please also reply to the Sa
 There’s a tight limit on the number of people for the dinner, so unfortunately, it’s not possible to squeeze any more in. If for any reason you or your partner has to drop out, please let us know as soon as possible.
 
 For those not coming to the dinner, there will be light food and drink provided in Staburret (one of the houses on the reception estate) from 4pm to 7.30pm. 
+
+**There will be fish, meat and cheeses; so please inform us of dietary requirements by 10 July.**
