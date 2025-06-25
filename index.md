@@ -8,7 +8,6 @@ title: Home
 </div>
 
 
-
 # **Wedding information**
 Welcome to the wedding information page. This page contains facts and guides for the wedding and will be updated over the next year. 
 
@@ -25,7 +24,7 @@ We have provided a short travel information page: [go to travel-info](/travel-in
 - Icebreaker drinks with cheese and wine, information coming, from 7.30pm onwards.
 
 ### **Saturday 2 August**
-- Wedding @ [Bodin Kirke](the-day/index.md) at 1.30pm
+- Wedding @ [Bodin Kirke](the-day/index.md) at 1.30pm, please arrive from 1:15pm.
 - Champagne reception and mingling 2:30pm to 4pm
 - [Dinner (Wedding Breakfast)](the-dinner/index.md) next to the church at 4pm
 - Light food, refreshment and drinks at stabburet (the reception house) for those not coming to the dinner from 4pm
@@ -49,4 +48,4 @@ We have provided a short travel information page: [go to travel-info](/travel-in
 Please ask if you have questions. 
 
 
-_Last updated: 17 June 2025_
+_Last updated: 25 June 2025_

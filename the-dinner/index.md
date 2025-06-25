@@ -12,4 +12,4 @@ There’s a tight limit on the number of people for the dinner, so unfortunately
 
 For those not coming to the dinner, there will be light food and drink provided in Staburret (one of the houses on the reception estate) from 4pm to 7.30pm. 
 
-**There will be fish, meat and cheeses; so please inform us of dietary requirements by 10 July.**
+**There will be fish, meat and cheeses and cake; so please inform us of dietary requirements by mid July.**
