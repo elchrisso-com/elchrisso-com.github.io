@@ -24,7 +24,7 @@ The wedding day will be on 2 August 2025. The ceremony will take place at the ch
 
 </div> 
 
-Please arrive at the church from 1.15 pm for the ceremony, which will be officiated by the Reverend Sam Aldred.
+Please arrive at the church from 1.15pm (starting at 1.30pm) for the ceremony, which will be officiated by the Reverend Sam Aldred.
 The church is [Bodin Kirke](https://en.wikipedia.org/wiki/Bodin_Church), a lovely, historic building.
 After the service, those attending the meal can walk over to the venue. It is a flat, 5-minute walk.
 
